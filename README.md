@@ -9,6 +9,10 @@ I've created an Android app that will display images from the Unsplash API. To c
 - **Retrofit:** To Make network requests and handle API responses.
 - **Room:** To Store and manage local data.
 
-![Screenshot (1)]()
+![home_screen.jpg](github%2Fscreenshots%2Fhome_screen.jpg)
+![empty_favorite_screen.jpg](github%2Fscreenshots%2Fempty_favorite_screen.jpg)
+![favorite_screen.jpg](github%2Fscreenshots%2Ffavorite_screen.jpg)
+![search_screen.jpg](github%2Fscreenshots%2Fsearch_screen.jpg)
+![search_screen_with_image.jpg](github%2Fscreenshots%2Fsearch_screen_with_image.jpg)
 
 The project was created for self-education and to consolidate the material learned.
