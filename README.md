@@ -9,6 +9,12 @@ I've created an Android app that will display images from the Unsplash API. To c
 - **Retrofit:** To Make network requests and handle API responses.
 - **Room:** To Store and manage local data.
 
-![Screenshot (1)]()
+<p float="center">
+<img src="https://github.com/Nurkaliyev/ImageVistaApp/blob/master/github/screenshots/home_screen.jpg" alt="home_screen" width="200"/>
+<img src="https://github.com/Nurkaliyev/ImageVistaApp/blob/master/github/screenshots/empty_favorite_screen.jpg" alt="empty_favorite_screen" width="200"/>
+<img src="https://github.com/Nurkaliyev/ImageVistaApp/blob/master/github/screenshots/favorite_screen.jpg" alt="favorite_screen" width="200"/>
+<img src="https://github.com/Nurkaliyev/ImageVistaApp/blob/master/github/screenshots/search_screen.jpg" alt="search_screen" width="200"/>
+<img src="https://github.com/Nurkaliyev/ImageVistaApp/blob/master/github/screenshots/search_screen_with_image.jpg" alt="search_screen_with_image" width="200"/>
+</p>
 
 The project was created for self-education and to consolidate the material learned.
